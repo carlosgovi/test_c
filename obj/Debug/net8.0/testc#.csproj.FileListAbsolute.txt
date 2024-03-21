@@ -1,0 +1,14 @@
+/Users/macbookpro/src/cuatroVientos/cursillo/testc#/bin/Debug/net8.0/testc#
+/Users/macbookpro/src/cuatroVientos/cursillo/testc#/bin/Debug/net8.0/testc#.deps.json
+/Users/macbookpro/src/cuatroVientos/cursillo/testc#/bin/Debug/net8.0/testc#.runtimeconfig.json
+/Users/macbookpro/src/cuatroVientos/cursillo/testc#/bin/Debug/net8.0/testc#.dll
+/Users/macbookpro/src/cuatroVientos/cursillo/testc#/bin/Debug/net8.0/testc#.pdb
+/Users/macbookpro/src/cuatroVientos/cursillo/testc#/obj/Debug/net8.0/testc#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/src/cuatroVientos/cursillo/testc#/obj/Debug/net8.0/testc#.AssemblyInfoInputs.cache
+/Users/macbookpro/src/cuatroVientos/cursillo/testc#/obj/Debug/net8.0/testc#.AssemblyInfo.cs
+/Users/macbookpro/src/cuatroVientos/cursillo/testc#/obj/Debug/net8.0/testc#.csproj.CoreCompileInputs.cache
+/Users/macbookpro/src/cuatroVientos/cursillo/testc#/obj/Debug/net8.0/testc#.dll
+/Users/macbookpro/src/cuatroVientos/cursillo/testc#/obj/Debug/net8.0/refint/testc#.dll
+/Users/macbookpro/src/cuatroVientos/cursillo/testc#/obj/Debug/net8.0/testc#.pdb
+/Users/macbookpro/src/cuatroVientos/cursillo/testc#/obj/Debug/net8.0/testc#.genruntimeconfig.cache
+/Users/macbookpro/src/cuatroVientos/cursillo/testc#/obj/Debug/net8.0/ref/testc#.dll
